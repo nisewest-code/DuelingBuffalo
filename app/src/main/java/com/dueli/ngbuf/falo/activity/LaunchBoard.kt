@@ -79,7 +79,8 @@ class LaunchBoard : AppCompatActivity() {
             } else {
                 Analytics.repearEnter()
                 Linked.link = firstUrl
-                generateLink()
+                wbCustom = WbCustom(this@LaunchBoard, binding, listener)
+                wbCustom?.init()
             }
         }
     }
