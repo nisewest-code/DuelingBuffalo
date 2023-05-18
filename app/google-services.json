@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072145545062",
+    "project_id": "dueling-buffalo",
+    "storage_bucket": "dueling-buffalo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072145545062:android:5165cb60da4c9a8b803aa7",
+        "android_client_info": {
+          "package_name": "com.dueli.ngbuf.falo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072145545062-de285j3q3dthimtp2j73uqffgnfp35f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSMoyxMJLACq4bD5u7U1hBGowuT6MG0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072145545062-de285j3q3dthimtp2j73uqffgnfp35f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
